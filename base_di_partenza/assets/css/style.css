@@ -143,6 +143,10 @@ article #num{
     font-family: 'Roboto';
     cursor: pointer;
 }
+.cardText span{
+    color: gray;
+    font-weight: 400;
+}
  #end{
     color: gray;
     font-size: 0.8em;
