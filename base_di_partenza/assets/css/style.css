@@ -1,6 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100;400;700 &famiglia= Spettrale:wght@200;400;700 & display=swap');
 
+body{
+    font-family: 'Roboto'serif;
+}
 /* HEADER */
 
 /* NAV */
